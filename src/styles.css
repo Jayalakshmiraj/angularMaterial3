@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+
+    h1 {
+      font-weight: bold;
+      vertical-align: middle;
+      text-align: center;
+    }
+
+    .main-bg {
+      background-color: red;
+      text-align: center;
+      color: #fff;
+
+    }
+
+    img {
+      max-width: 100%;
+    }
+
+    .col-md-10 {
+      text-align: center;
+    }
+  
